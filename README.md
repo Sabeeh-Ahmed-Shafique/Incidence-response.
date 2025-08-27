@@ -12,4 +12,6 @@ I used the following steps to navigate through the different steps of analyzing 
 - __Recover__ affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
 
 ---
-[Download Complete Incident Report.DOCX]()
+[Download Complete Incident Report.DOCX](https://github.com/Sabeeh-Ahmed-Shafique/Incidence-response./raw/2fc61ef12dd481d41677a1595533d73d4e56612f/Incident%20report%20analysis%20(1).docx)
+
+To download the full report, please consider the above link.
